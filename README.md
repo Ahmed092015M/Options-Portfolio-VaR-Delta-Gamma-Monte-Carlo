@@ -112,8 +112,6 @@ pytest -v                                 # 30 tests
 jupyter lab notebooks/01_options_var.ipynb
 ```
 
-The first run downloads the data (`data/raw`) and computes the out-of-sample runs (about 15 minutes in total); later runs reload them from `data/processed`.
-
 ## Reference
 
 Daníelsson, J. (2011). *Financial Risk Forecasting: The Theory and Practice of Forecasting Market Risk with Implementation in R and Matlab.* Wiley.
